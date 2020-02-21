@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trainingpics</folder>
+	<filename>2020-02-20-223130.jpg</filename>
+	<path>R:\Desktop\trainingpics\2020-02-20-223130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Speed Limit 40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>128</ymin>
+			<xmax>397</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>
